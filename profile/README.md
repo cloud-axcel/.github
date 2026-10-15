@@ -1,46 +1,41 @@
 <div align="center">
 
-<img src="https://github.com/cloud-axcel.png" width="120" alt="Cloud Axcel logo" />
+<img src="./assets/banner.svg" width="100%" alt="Cloud Axcel — Software and AI, engineered for growth." />
 
-# Cloud Axcel
+<br/>
 
-### Software and AI, engineered for growth.
+**Production-grade software, AI, and automation — delivered by senior teams in Nepal and the USA.**
 
-Production-grade software, AI, and automation — delivered by senior teams in Nepal and the USA.
-
-[Website](https://cloudaxcel.com) · [Solutions](https://cloudaxcel.com/solutions) · [Contact](https://cloudaxcel.com/contact) · [LinkedIn](https://www.linkedin.com/company/cloudaxcel/life/) · [customersuccess@cloudaxcel.com](mailto:customersuccess@cloudaxcel.com)
+<a href="https://cloudaxcel.com"><img src="https://img.shields.io/badge/Website-cloudaxcel.com-F2445C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://cloudaxcel.com/solutions"><img src="https://img.shields.io/badge/Solutions-1D3B72?style=for-the-badge&logo=rocket&logoColor=white" alt="Solutions"/></a>
+<a href="https://cloudaxcel.com/contact"><img src="https://img.shields.io/badge/Contact-1D3B72?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact"/></a>
+<a href="https://www.linkedin.com/company/cloudaxcel/life/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" height="12" alt="" />
 
 ## Who we are
 
-Cloud Axcel started in 2019 as a small team taking on software projects other agencies wouldn't scope properly, built around one standard: ship things that work, and stay around after launch to prove it.
+Cloud Axcel started in 2019 as a small team taking on software projects other agencies wouldn't scope properly, built around one standard: **ship things that work, and stay around after launch to prove it.**
 
 Seven years later, we've grown past 30 people and delivered 50+ projects across hospitality, healthcare, food and beverage, and other industries — holding a 98% client satisfaction rate along the way.
 
-<div align="center">
+<img src="./assets/stats.svg" width="100%" alt="50+ projects delivered · 98% client satisfaction · 5+ years experience · 30+ team members" />
 
-| 50+ | 98% | 5+ | 30+ |
-|:---:|:---:|:---:|:---:|
-| Projects Delivered | Client Satisfaction | Years Experience | Team Members |
+> **Mission** — Ship production-grade software and AI that measurably moves our clients' business forward.
+>
+> **Vision** — To be the technology partner clients call first, because we stick around after launch instead of moving on to the next sale.
 
-</div>
-
-**Mission** — Ship production-grade software and AI that measurably moves our clients' business forward.
-
-**Vision** — To be the technology partner clients call first, because we stick around after launch instead of moving on to the next sale.
+<img src="./assets/divider.svg" width="100%" height="12" alt="" />
 
 ## What we do
 
-- **Software Development** — custom web and application development, from MVP to enterprise-grade platforms
-- **AI Development** — LLM-powered copilots, AI agents, and retrieval-augmented workflows engineered for production use
-- **Business Automation** — automating repetitive operational work so teams spend more time on growth
-- **Team Augmentation** — embedding senior engineers directly into client teams
-- **Technology Assessment & Orchestration** — auditing existing stacks and designing the integrations that make them work together
+<img src="./assets/services.svg" width="100%" alt="Software Development · AI Development · Business Automation · Team Augmentation · Technology Assessment & Orchestration" />
 
 We also deliver end-to-end **web development, mobile development, cloud solutions, cybersecurity, and DevOps automation**.
+
+<img src="./assets/divider.svg" width="100%" height="12" alt="" />
 
 ## Tech stack
 
@@ -53,20 +48,30 @@ We also deliver end-to-end **web development, mobile development, cloud solution
 ![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white)
+
+<sub>…plus custom third-party APIs to connect the tools businesses already run on.</sub>
+
 </div>
 
-We also integrate with Cloudflare, Hostinger, Zapier, HubSpot, Asana, and custom third-party APIs to connect the tools businesses already run on.
+<img src="./assets/divider.svg" width="100%" height="12" alt="" />
 
 ## How we work
 
-1. **Discovery** — we scope architecture, timeline, and pricing before any code gets written.
-2. **Build** — senior engineers ship in short cycles, with a working demo every week.
-3. **Launch & support** — we stay on after launch for fixes, iteration, and scale.
+<img src="./assets/process.svg" width="100%" alt="1. Discovery — we scope architecture, timeline, and pricing before any code gets written. 2. Build — senior engineers ship in short cycles, with a working demo every week. 3. Launch & support — we stay on after launch for fixes, iteration, and scale." />
 
 ## Get in touch
 
-We're a software and AI development agency for teams that need it built right, the first time.
+<div align="center">
+
+<img src="./assets/footer.svg" width="100%" alt="Let's build it right, the first time." />
 
 📧 [customersuccess@cloudaxcel.com](mailto:customersuccess@cloudaxcel.com) &nbsp;·&nbsp; 🌐 [cloudaxcel.com](https://cloudaxcel.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/company/cloudaxcel/life/)
 
 <sub>© 2026 CloudAxcel, Inc.</sub>
+
+</div>
