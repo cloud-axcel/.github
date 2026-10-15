@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Cloud Axcel — Software and AI, engineered for growth." />
+<img src="./assets/banner.svg?v=3" width="100%" alt="Cloud Axcel — Software and AI, engineered for growth." />
 
 <br/>
 
