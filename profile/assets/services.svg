@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 450" width="1200" height="450" role="img" aria-label="Services: Software Development, AI Development, Business Automation, Team Augmentation, Technology Assessment and Orchestration">
+<style>.f{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.card{opacity:0;animation:up .8s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:none}}
+.edge{stroke-dasharray:120 1000;animation:run 7s linear infinite}
+@keyframes run{to{stroke-dashoffset:-1120}}
+.spin{animation:spin 6s linear infinite} @keyframes spin{to{transform:rotate(360deg)}}
+.ib{animation:pulse 3.2s ease-in-out infinite} @keyframes pulse{0%,100%{opacity:.18}50%{opacity:.32}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style><g class="card" style="animation-delay:0.10s">
+<rect x="10.0" y="10" width="373.3333333333333" height="200" rx="16" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".08"/>
+<rect class="edge" x="10.0" y="10" width="373.3333333333333" height="200" rx="16" fill="none" stroke="#3B82F6" stroke-width="2" pathLength="1120" style="animation-delay:0.0s"/>
+<rect class="ib" x="38.0" y="36" width="52" height="52" rx="12" fill="#3B82F6" style="animation-delay:0.0s"/>
+<g transform="translate(64.0,62)"><path d="M-10 -8 l-10 8 l10 8 M10 -8 l10 8 l-10 8 M4 -14 l-8 28" fill="none" stroke="#3B82F6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text class="f" x="38.0" y="116" font-size="21" font-weight="700" fill="#E6EDF7">Software Development</text>
+<text class="f" x="38.0" y="138" font-size="16" fill="#94A3B8">Custom web and application</text><text class="f" x="38.0" y="162" font-size="16" fill="#94A3B8">development, from MVP to</text><text class="f" x="38.0" y="186" font-size="16" fill="#94A3B8">enterprise-grade platforms.</text></g><g class="card" style="animation-delay:0.25s">
+<rect x="413.3333333333333" y="10" width="373.3333333333333" height="200" rx="16" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".08"/>
+<rect class="edge" x="413.3333333333333" y="10" width="373.3333333333333" height="200" rx="16" fill="none" stroke="#F2445C" stroke-width="2" pathLength="1120" style="animation-delay:-1.4s"/>
+<rect class="ib" x="441.3333333333333" y="36" width="52" height="52" rx="12" fill="#F2445C" style="animation-delay:0.5s"/>
+<g transform="translate(467.3333333333333,62)"><path d="M0 -16 L4 -4 L16 0 L4 4 L0 16 L-4 4 L-16 0 L-4 -4 Z" fill="#F2445C"/><circle cx="13" cy="-13" r="3" fill="#F2445C"/></g>
+<text class="f" x="441.3333333333333" y="116" font-size="21" font-weight="700" fill="#E6EDF7">AI Development</text>
+<text class="f" x="441.3333333333333" y="138" font-size="16" fill="#94A3B8">LLM copilots, AI agents and</text><text class="f" x="441.3333333333333" y="162" font-size="16" fill="#94A3B8">retrieval-augmented workflows,</text><text class="f" x="441.3333333333333" y="186" font-size="16" fill="#94A3B8">engineered for production.</text></g><g class="card" style="animation-delay:0.40s">
+<rect x="816.6666666666666" y="10" width="373.3333333333333" height="200" rx="16" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".08"/>
+<rect class="edge" x="816.6666666666666" y="10" width="373.3333333333333" height="200" rx="16" fill="none" stroke="#3B82F6" stroke-width="2" pathLength="1120" style="animation-delay:-2.8s"/>
+<rect class="ib" x="844.6666666666666" y="36" width="52" height="52" rx="12" fill="#3B82F6" style="animation-delay:1.0s"/>
+<g transform="translate(870.6666666666666,62)"><g class="spin"><circle r="9" fill="none" stroke="#3B82F6" stroke-width="3"/><rect x="-2.5" y="-17" width="5" height="7" rx="1" fill="#3B82F6" transform="rotate(0)"/><rect x="-2.5" y="-17" width="5" height="7" rx="1" fill="#3B82F6" transform="rotate(45)"/><rect x="-2.5" y="-17" width="5" height="7" rx="1" fill="#3B82F6" transform="rotate(90)"/><rect x="-2.5" y="-17" width="5" height="7" rx="1" fill="#3B82F6" transform="rotate(135)"/><rect x="-2.5" y="-17" width="5" height="7" rx="1" fill="#3B82F6" transform="rotate(180)"/><rect x="-2.5" y="-17" width="5" height="7" rx="1" fill="#3B82F6" transform="rotate(225)"/><rect x="-2.5" y="-17" width="5" height="7" rx="1" fill="#3B82F6" transform="rotate(270)"/><rect x="-2.5" y="-17" width="5" height="7" rx="1" fill="#3B82F6" transform="rotate(315)"/></g></g>
+<text class="f" x="844.6666666666666" y="116" font-size="21" font-weight="700" fill="#E6EDF7">Business Automation</text>
+<text class="f" x="844.6666666666666" y="138" font-size="16" fill="#94A3B8">Automating repetitive ops work</text><text class="f" x="844.6666666666666" y="162" font-size="16" fill="#94A3B8">so teams spend more time on</text><text class="f" x="844.6666666666666" y="186" font-size="16" fill="#94A3B8">growth.</text></g><g class="card" style="animation-delay:0.55s">
+<rect x="10.0" y="240" width="575.0" height="200" rx="16" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".08"/>
+<rect class="edge" x="10.0" y="240" width="575.0" height="200" rx="16" fill="none" stroke="#F2445C" stroke-width="2" pathLength="1120" style="animation-delay:-4.199999999999999s"/>
+<rect class="ib" x="38.0" y="266" width="52" height="52" rx="12" fill="#F2445C" style="animation-delay:1.5s"/>
+<g transform="translate(64.0,292)"><circle cx="-7" cy="-6" r="5" fill="#F2445C"/><circle cx="8" cy="-6" r="5" fill="#F2445C" opacity=".7"/><path d="M-16 12 a9 9 0 0 1 18 0 Z" fill="#F2445C"/><path d="M0 12 a9 9 0 0 1 17 0 Z" fill="#F2445C" opacity=".7"/></g>
+<text class="f" x="38.0" y="346" font-size="21" font-weight="700" fill="#E6EDF7">Team Augmentation</text>
+<text class="f" x="38.0" y="368" font-size="16" fill="#94A3B8">Senior engineers embedded</text><text class="f" x="38.0" y="392" font-size="16" fill="#94A3B8">directly into your team.</text></g><g class="card" style="animation-delay:0.70s">
+<rect x="615.0" y="240" width="575.0" height="200" rx="16" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".08"/>
+<rect class="edge" x="615.0" y="240" width="575.0" height="200" rx="16" fill="none" stroke="#3B82F6" stroke-width="2" pathLength="1120" style="animation-delay:-5.6s"/>
+<rect class="ib" x="643.0" y="266" width="52" height="52" rx="12" fill="#3B82F6" style="animation-delay:2.0s"/>
+<g transform="translate(669.0,292)"><circle cx="0" cy="0" r="4" fill="#3B82F6"/><circle cx="-14" cy="-10" r="3.5" fill="none" stroke="#3B82F6" stroke-width="2.5"/><line x1="0" y1="0" x2="-9.799999999999999" y2="-7.0" stroke="#3B82F6" stroke-width="2"/><circle cx="14" cy="-10" r="3.5" fill="none" stroke="#3B82F6" stroke-width="2.5"/><line x1="0" y1="0" x2="9.799999999999999" y2="-7.0" stroke="#3B82F6" stroke-width="2"/><circle cx="0" cy="15" r="3.5" fill="none" stroke="#3B82F6" stroke-width="2.5"/><line x1="0" y1="0" x2="0.0" y2="10.5" stroke="#3B82F6" stroke-width="2"/></g>
+<text class="f" x="643.0" y="346" font-size="21" font-weight="700" fill="#E6EDF7">Tech Assessment &amp; Orchestration</text>
+<text class="f" x="643.0" y="368" font-size="16" fill="#94A3B8">Auditing existing stacks and</text><text class="f" x="643.0" y="392" font-size="16" fill="#94A3B8">designing the integrations that</text><text class="f" x="643.0" y="416" font-size="16" fill="#94A3B8">make them work together.</text></g></svg>
