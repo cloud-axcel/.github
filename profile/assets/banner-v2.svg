@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Cloud Axcel — Software and AI, engineered for growth">
+<style>
+.f{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.blob{transform-box:fill-box;transform-origin:center}
+.b1{animation:drift1 14s ease-in-out infinite} .b2{animation:drift2 18s ease-in-out infinite} .b3{animation:drift3 22s ease-in-out infinite}
+@keyframes drift1{0%,100%{transform:translate(0,0) scale(1)}50%{transform:translate(120px,40px) scale(1.15)}}
+@keyframes drift2{0%,100%{transform:translate(0,0) scale(1)}50%{transform:translate(-140px,-30px) scale(1.2)}}
+@keyframes drift3{0%,100%{transform:translate(0,0)}50%{transform:translate(60px,-50px)}}
+.grid{animation:pan 20s linear infinite} @keyframes pan{to{transform:translate(-40px,-40px)}}
+.in{opacity:0;animation:fadeup .9s cubic-bezier(.2,.7,.2,1) forwards}
+.d1{animation-delay:.1s} .d2{animation-delay:.35s} .d3{animation-delay:.6s} .d4{animation-delay:.85s}
+@keyframes fadeup{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.ring{transform-origin:1000px 160px} .r1{animation:spin 18s linear infinite} .r2{animation:spin 26s linear infinite reverse} .r3{animation:spin 40s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.core{transform-origin:1000px 160px;animation:breathe 4s ease-in-out infinite}
+@keyframes breathe{0%,100%{transform:scale(1);opacity:.9}50%{transform:scale(1.08);opacity:1}}
+.p{animation:rise linear infinite;opacity:0}
+@keyframes rise{0%{transform:translateY(0);opacity:0}15%{opacity:.8}100%{transform:translateY(-260px);opacity:0}}
+.blink{animation:blink 1s steps(1) infinite} @keyframes blink{50%{opacity:0}}
+.vis{opacity:0;animation:vis 16s linear infinite}
+@keyframes vis{0%,24.6%{opacity:1}24.7%,100%{opacity:0}}
+@keyframes t0{0%{transform:translateX(0);animation-timing-function:steps(20,end)}8.75%{transform:translateX(316.0px)}20.62%{transform:translateX(316.0px);animation-timing-function:steps(20,end)}24.06%,100%{transform:translateX(0)}}
+.t0{animation:t0 16s infinite;animation-delay:1.2s} .v0{animation-delay:1.2s}
+@keyframes t1{0%{transform:translateX(0);animation-timing-function:steps(25,end)}8.75%{transform:translateX(394.0px)}20.62%{transform:translateX(394.0px);animation-timing-function:steps(25,end)}24.06%,100%{transform:translateX(0)}}
+.t1{animation:t1 16s infinite;animation-delay:5.2s} .v1{animation-delay:5.2s}
+@keyframes t2{0%{transform:translateX(0);animation-timing-function:steps(19,end)}8.75%{transform:translateX(300.4px)}20.62%{transform:translateX(300.4px);animation-timing-function:steps(19,end)}24.06%,100%{transform:translateX(0)}}
+.t2{animation:t2 16s infinite;animation-delay:9.2s} .v2{animation-delay:9.2s}
+@keyframes t3{0%{transform:translateX(0);animation-timing-function:steps(24,end)}8.75%{transform:translateX(378.4px)}20.62%{transform:translateX(378.4px);animation-timing-function:steps(24,end)}24.06%,100%{transform:translateX(0)}}
+.t3{animation:t3 16s infinite;animation-delay:13.2s} .v3{animation-delay:13.2s}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1428"/><stop offset="1" stop-color="#0A0F1C"/></linearGradient>
+<linearGradient id="tg" x1="0" x2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".55" stop-color="#C7D7FF"/><stop offset="1" stop-color="#F2445C"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+<pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#FFFFFF" opacity=".07"/></pattern>
+<clipPath id="frame"><rect width="1200" height="320" rx="18"/></clipPath>
+<clipPath id="c0"><rect class="t0" x="-26.4" y="208" width="316.0" height="40"/></clipPath><clipPath id="c1"><rect class="t1" x="-104.4" y="208" width="394.0" height="40"/></clipPath><clipPath id="c2"><rect class="t2" x="-10.8" y="208" width="300.4" height="40"/></clipPath><clipPath id="c3"><rect class="t3" x="-88.8" y="208" width="378.4" height="40"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="320" fill="url(#bg)"/>
+<g filter="url(#blur)"><circle class="blob b1" cx="220" cy="80" r="150" fill="#1D3B72" opacity=".9"/><circle class="blob b2" cx="900" cy="260" r="140" fill="#F2445C" opacity=".35"/><circle class="blob b3" cx="620" cy="40" r="110" fill="#3B82F6" opacity=".3"/></g>
+<rect class="grid" width="1260" height="380" fill="url(#dots)"/>
+<circle class="p" cx="693" cy="289" r="2.4" fill="#E6EDF7" style="animation-duration:9.9s;animation-delay:0.7s"/><circle class="p" cx="222" cy="303" r="1.2" fill="#3B82F6" style="animation-duration:11.5s;animation-delay:2.1s"/><circle class="p" cx="918" cy="306" r="1.2" fill="#3B82F6" style="animation-duration:7.4s;animation-delay:5.5s"/><circle class="p" cx="283" cy="294" r="1.2" fill="#3B82F6" style="animation-duration:9.5s;animation-delay:4.0s"/><circle class="p" cx="125" cy="315" r="1.6" fill="#3B82F6" style="animation-duration:7.7s;animation-delay:1.4s"/><circle class="p" cx="661" cy="315" r="1.6" fill="#3B82F6" style="animation-duration:6.6s;animation-delay:5.7s"/><circle class="p" cx="792" cy="286" r="1.2" fill="#F2445C" style="animation-duration:9.4s;animation-delay:6.2s"/><circle class="p" cx="1118" cy="307" r="2" fill="#F2445C" style="animation-duration:8.8s;animation-delay:9.2s"/><circle class="p" cx="643" cy="295" r="1.6" fill="#E6EDF7" style="animation-duration:10.2s;animation-delay:2.4s"/><circle class="p" cx="644" cy="313" r="2.4" fill="#F2445C" style="animation-duration:11.3s;animation-delay:7.3s"/><circle class="p" cx="179" cy="287" r="2.4" fill="#F2445C" style="animation-duration:7.0s;animation-delay:3.4s"/><circle class="p" cx="893" cy="282" r="1.2" fill="#F2445C" style="animation-duration:10.6s;animation-delay:5.7s"/><circle class="p" cx="726" cy="324" r="2" fill="#F2445C" style="animation-duration:9.6s;animation-delay:5.8s"/><circle class="p" cx="170" cy="285" r="2" fill="#3B82F6" style="animation-duration:8.8s;animation-delay:6.6s"/><circle class="p" cx="664" cy="321" r="2.4" fill="#E6EDF7" style="animation-duration:7.7s;animation-delay:3.9s"/><circle class="p" cx="740" cy="281" r="2.4" fill="#F2445C" style="animation-duration:8.1s;animation-delay:6.1s"/><circle class="p" cx="150" cy="293" r="2" fill="#F2445C" style="animation-duration:6.8s;animation-delay:2.5s"/><circle class="p" cx="1046" cy="285" r="1.6" fill="#3B82F6" style="animation-duration:8.7s;animation-delay:5.5s"/><circle class="p" cx="911" cy="315" r="2" fill="#E6EDF7" style="animation-duration:10.2s;animation-delay:9.9s"/><circle class="p" cx="809" cy="294" r="1.6" fill="#E6EDF7" style="animation-duration:6.5s;animation-delay:1.5s"/><circle class="p" cx="507" cy="280" r="2.4" fill="#F2445C" style="animation-duration:11.0s;animation-delay:1.8s"/><circle class="p" cx="38" cy="289" r="2.4" fill="#F2445C" style="animation-duration:9.2s;animation-delay:6.1s"/>
+
+<g class="ring r3"><circle cx="1000" cy="160" r="140" fill="none" stroke="#8FA8D6" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="2 10"/></g>
+<g class="ring r2"><circle cx="1000" cy="160" r="112" fill="none" stroke="#3B82F6" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="40 14"/><circle cx="1112" cy="160" r="6" fill="#3B82F6"/><circle cx="888" cy="160" r="4" fill="#3B82F6" opacity=".6"/></g>
+<g class="ring r1"><circle cx="1000" cy="160" r="86" fill="none" stroke="#F2445C" stroke-opacity=".5" stroke-width="2" stroke-dasharray="90 30"/><circle cx="1000" cy="74" r="7" fill="#F2445C"/></g>
+<g class="core"><rect x="944" y="116" width="112" height="88" rx="18" fill="#FFFFFF"/>
+<g transform="translate(956,116) scale(0.088)">
+<path fill="#163A66" d="M100 160 H615 L505 340 H240 A60 60 0 0 0 180 400 V600 A60 60 0 0 0 240 660 H305 L195 840 H100 A100 100 0 0 1 0 740 V260 A100 100 0 0 1 100 160 Z"/>
+<path fill="#EC456A" d="M665 160 H930 A70 70 0 0 1 1000 230 V740 A100 100 0 0 1 900 840 H555 L665 660 H760 A60 60 0 0 0 820 600 V338 L530 805 A70 70 0 0 1 475 840 H245 Z"/>
+</g></g>
+
+<g class="in d1"><text class="f" x="116" y="86" font-size="15" font-weight="600" letter-spacing="4" fill="#94A3B8">SOFTWARE · AI · AUTOMATION</text></g>
+<g class="in d2"><text class="f" x="114" y="148" font-size="64" font-weight="800" fill="url(#tg)" letter-spacing="-1">Cloud Axcel</text></g>
+<g class="in d3"><text class="f" x="116" y="186" font-size="22" fill="#E6EDF7" opacity=".85">Software and AI, engineered for growth.</text></g>
+<g class="in d4"><text class="m" x="118" y="236" font-size="26" fill="#3B82F6">$</text><text class="m" x="149.2" y="236" font-size="26" fill="#94A3B8">we build</text><g class="vis v0"><text class="m" x="289.6" y="236" font-size="26" fill="#F2445C" clip-path="url(#c0)">AI agents &amp; copilots</text><g class="t0"><rect class="blink" x="291.6" y="214" width="12" height="28" rx="2" fill="#E6EDF7" transform="translate(0,0)"/></g></g><g class="vis v1"><text class="m" x="289.6" y="236" font-size="26" fill="#F2445C" clip-path="url(#c1)">custom software platforms</text><g class="t1"><rect class="blink" x="291.6" y="214" width="12" height="28" rx="2" fill="#E6EDF7" transform="translate(0,0)"/></g></g><g class="vis v2"><text class="m" x="289.6" y="236" font-size="26" fill="#F2445C" clip-path="url(#c2)">business automation</text><g class="t2"><rect class="blink" x="291.6" y="214" width="12" height="28" rx="2" fill="#E6EDF7" transform="translate(0,0)"/></g></g><g class="vis v3"><text class="m" x="289.6" y="236" font-size="26" fill="#F2445C" clip-path="url(#c3)">senior engineering teams</text><g class="t3"><rect class="blink" x="291.6" y="214" width="12" height="28" rx="2" fill="#E6EDF7" transform="translate(0,0)"/></g></g></g>
+<rect width="1200" height="320" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+</g></svg>
